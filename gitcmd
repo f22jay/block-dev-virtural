@@ -1,0 +1,6 @@
+git init
+git remote add orgin git@github.com:f22jay/three.git
+git clone orgin
+git add -a .
+git commit -m .
+git push orgin master
